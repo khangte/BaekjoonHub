@@ -1,13 +1,11 @@
 import sys
 read_line = sys.stdin.readline
 
-def dfs(graph, v, visited, cnt):
+def dfs(graph, v, visited):
     visited[v] = True
-    cnt.append(1)
     for i in graph[v]:
         if not visited[i]:
-            dfs(graph, i, visited, cnt)
-    return cnt
+            dfs(graph, i, visited)
 
 n = int(read_line().rstrip())
 m = int(read_line().rstrip())
@@ -18,6 +16,5 @@ for i in range(m):
     computer[b].append(a)
 
 visited=[False] * (n+1)
-cnt = []
-dfs(computer, 1, visited, cnt)
-print(len(cnt)-1) # 1번 노드 제외
+dfs(computer, 1, visited)
+print(sum(visited)-1) # 1번 노드 제외
