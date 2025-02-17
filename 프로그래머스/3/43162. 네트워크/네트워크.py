@@ -1,6 +1,3 @@
-import sys
-sys.setrecursionlimit(10000)
-
 def dfs(computers, v, visited, n):
     visited[v] = True
     for i in range(n):
