@@ -1,7 +1,6 @@
 import sys
 sys.setrecursionlimit(10000)
 
-
 def dfs(airport, graph, route):
     while graph[airport]:
         next_airport = graph[airport].pop(0)
