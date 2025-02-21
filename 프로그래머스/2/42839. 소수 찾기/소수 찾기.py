@@ -12,7 +12,6 @@ def is_prime_number(x):
     return True
 
 def solution(numbers):
-    from itertools import permutations
     number_list = list(numbers)
     permutation_set = set()
     
