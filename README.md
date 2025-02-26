@@ -14,15 +14,16 @@
 
 📁 Baekjoon <br>
 ┣ 📂 Bronze <br>
-    ┣ 📂 Silver <br>
-    ┣ 📂 Gold <br>
-    ┣ 📂 Platinum <br>
-    ┣ 📂 Diamond <br>
+┣ 📂 Silver <br>
+┣ 📂 Gold <br>
+┣ 📂 Platinum <br>
+┣ 📂 Diamond <br>
 📁 Baekjoon <br>
-    ┣ 📂 Level 1 <br>
-    ┣ 📂 Level 2 <br>
-    ┣ 📂 Level 3 <br>
+┣ 📂 Level 1 <br>
+┣ 📂 Level 2 <br>
+┣ 📂 Level 3 <br>
 📜 README.md <br>
+
 
 각 문제는 **"난이도/문제번호_문제이름.확장자"** 또는 **"레벨/문제이름.확장자"** 형태로 저장됩니다.
 
@@ -32,12 +33,12 @@
 
 | 플랫폼 | 난이도  | 해결한 문제 수 |
 |--------|---------|--------------|
-| 🏆 Baekjoon | 🥉 Bronze | 10 |
-| 🏆 Baekjoon | 🥈 Silver | 15 |
-| 🏆 Baekjoon | 🥇 Gold | 5 |
-| 🌟 Programmers | Level 1 | 20 |
-| 🌟 Programmers | Level 2 | 12 |
-| 🌟 Programmers | Level 3 | 3 |
+| 🏆 Baekjoon | 🥉 Bronze | - |
+| 🏆 Baekjoon | 🥈 Silver | - |
+| 🏆 Baekjoon | 🥇 Gold | - |
+| 🌟 Programmers | Level 1 | - |
+| 🌟 Programmers | Level 2 | - |
+| 🌟 Programmers | Level 3 | - |
 
 > 최근 업데이트: `$(date +%Y-%m-%d)`
 
