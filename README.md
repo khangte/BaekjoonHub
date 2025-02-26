@@ -13,16 +13,16 @@
 ## 📂 Repository Structure
 
 📁 Baekjoon 
- ┣ 📂 Bronze 
- ┣ 📂 Silver 
- ┣ 📂 Gold 
- ┣ 📂 Platinum 
- ┣ 📂 Diamond 
+┣ 📂 Bronze 
+┣ 📂 Silver 
+┣ 📂 Gold 
+┣ 📂 Platinum 
+┣ 📂 Diamond 
 📁 Baekjoon 
- ┣ 📂 Level 1 
- ┣ 📂 Level 2 
- ┣ 📂 Level 3 
- ┣ 📂 Level 4
+┣ 📂 Level 1 
+┣ 📂 Level 2 
+┣ 📂 Level 3 
+┣ 📂 Level 4
 📜 README.md
 
 각 문제는 **"난이도/문제번호_문제이름.확장자"** 또는 **"레벨/문제이름.확장자"** 형태로 저장됩니다.
