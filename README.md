@@ -13,7 +13,7 @@
 ## 📂 Repository Structure
 
 📁 Baekjoon 
-┣ 📂 Bronze 
+┣ 📂 Bronze  
 ┣ 📂 Silver 
 ┣ 📂 Gold 
 ┣ 📂 Platinum 
