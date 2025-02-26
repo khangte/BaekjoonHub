@@ -15,9 +15,9 @@
 📁 Baekjoon 
  ┣ 📂 Bronze  
  ┣ 📂 Silver  
-┣ 📂 Gold
-┣ 📂 Platinum
-┣ 📂 Diamond
+ ┣ 📂 Gold 
+ ┣ 📂 Platinum 
+ ┣ 📂 Diamond 
 📁 Baekjoon
 ┣ 📂 Level 1
 ┣ 📂 Level 2
