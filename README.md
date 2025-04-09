@@ -57,13 +57,6 @@
 
 ---
 
-## 📜 Solving Log
-
-- [백준 허브 기록](https://github.com/사용자명/BOJ-Hub)
-- [프로그래머스 풀이 기록](https://github.com/사용자명/Programmers-Hub)
-
----
-
 ## 🛠 Tech Stack
 
 - **사용 언어**: Python, Mysql
