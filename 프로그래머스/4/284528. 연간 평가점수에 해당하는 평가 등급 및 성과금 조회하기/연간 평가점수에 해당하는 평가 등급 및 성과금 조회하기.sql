@@ -1,3 +1,4 @@
+-- 코드를 입력하세요.
 SELECT HG.EMP_NO,
     HE.EMP_NAME,
     HG.GRADE,
