@@ -1,4 +1,4 @@
-# 📌 Algorithm Study Repository
+# BaekjoonHub Repo
 
 | **Platforms**
 
